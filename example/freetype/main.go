@@ -17,7 +17,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/BurntSushi/freetype-go/freetype"
+	"github.com/sheik/freetype-go/freetype"
 )
 
 var (
